@@ -1,7 +1,7 @@
 ## Expense Tracker
 
 Live link:
-https://ludeng303.github.io/expense-tracker/
+https://xiaolu-ignite.github.io/expense-tracker/
 
 Keep track of income and expenses. Add and remove items and save to local storage
 
